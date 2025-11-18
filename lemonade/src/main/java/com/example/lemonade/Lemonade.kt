@@ -59,7 +59,7 @@ fun LemonApp() {
                 .clickable {
                     when (step) {
                         1 -> {
-                            squeezeCount = (2..6).random()
+                            squeezeCount = (2..4).random()
                             step = 2
                         }
                         2 -> {
