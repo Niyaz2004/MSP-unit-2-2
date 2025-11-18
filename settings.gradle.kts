@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Dice Roller"
 include(":app")
- 
+include(":lemonade")
